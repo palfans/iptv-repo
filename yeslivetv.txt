@@ -1,0 +1,2 @@
+[yeslivetv]
+elta-tv-1 = https://yeslivetv.com/hls/memfs/b319b587-2d98-4f7f-841b-6f64f44bdc26.m3u8
