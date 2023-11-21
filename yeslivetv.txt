@@ -1,2 +1,8 @@
 [yeslivetv]
 elta-tv-1 = https://yeslivetv.com/hls/memfs/b319b587-2d98-4f7f-841b-6f64f44bdc26.m3u8
+elta-tv-2 = https://yeslivetv.com/hls/memfs/e5b0dc2f-d20e-4ba9-9e95-2730f983bede.m3u8
+elta-tv-3 = https://yeslivetv.com/hls/memfs/2eadafcc-f46a-49dd-9a17-74b72e065513.m3u8
+eleven-sports-1 = https://yeslivetv.com/hls/memfs/fe565e01-45f0-4e6e-adef-3d9be7695361.m3u8
+eleven-sports-2 = https://yeslivetv.com/hls/memfs/d35857ef-54b9-40e6-9e61-cb969d5aacba.m3u8
+tvb-pearl = https://yeslivetv.com/hls/memfs/eed0b619-e264-4bcd-b8f2-ecd43de14ba2.m3u8
+viutv-six = https://yeslivetv.com/hls/memfs/69ac3ae7-5c00-4d2e-b261-cc67d3ee2932.m3u8
