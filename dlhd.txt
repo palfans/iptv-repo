@@ -1,1 +1,2 @@
-Referer=https://weblivehdplay.ru/,User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0 rv:3.0) Gecko/20181005 Firefox/36.0
+Referer=https://weblivehdplay.ru/,
+User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0 rv:3.0) Gecko/20181005 Firefox/36.0
