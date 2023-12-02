@@ -1,0 +1,66 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="9999" tvg-name="beIN Sport USA" tvg-logo="https://i.imgur.com/OGXmGNc.png" group-title="体育",beIN Sport USA
+https://ddh2.webhd.ru/ddh2/premium425/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-name="beIN Sports English 1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="体育",beIN Sports English 1
+https://ddh2.webhd.ru/ddh2/premium61/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-name="beIN Sports English 2" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="体育",beIN Sports English 2
+https://ddh2.webhd.ru/ddh2/premium90/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-name="beIN Sports English 3" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="体育",beIN Sports English 3
+https://ddh2.webhd.ru/ddh2/premium46/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA1.qa" tvg-name="beIN Sports XTRA 1" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="体育",beIN Sports XTRA 1
+https://sc2022.stream-link.org/tv2306.php?id=s14
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="https://i.imgur.com/Wi7rhPs.png" group-title="体育",TNT Sport 1 [UK]
+https://ddh2.webhd.ru/ddh2/premium31/playlist.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="https://i.imgur.com/MrHjmX4.png" group-title="体育",TNT Sport 2 [UK]
+https://ddh2.webhd.ru/ddh2/premium32/playlist.m3u8
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="https://i.imgur.com/Ss2Gf0o.png" group-title="体育",TNT Sport 3 [UK]
+https://ddh2.webhd.ru/ddh2/premium33/playlist.m3u8
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sport 4" tvg-logo="https://i.imgur.com/zB1PPDI.png" group-title="体育",TNT Sport 4 [UK]
+https://ddh2.webhd.ru/ddh2/premium34/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://i.imgur.com/Bi8uR5O.png" group-title="体育",Sky Sports Main Event
+https://ddh2.webhd.ru/ddh2/premium38/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="https://i.imgur.com/FizZY9D.png" group-title="体育",Sky Sports News
+https://ddh2.webhd.ru/ddh2/premium366/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://i.imgur.com/rsT6Cu2.png" group-title="体育",Sky Sports Football
+https://ddh2.webhd.ru/ddh2/premium35/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.imgur.com/ChWdcRC.png" group-title="体育",Sky Sports Premier League
+https://ddh2.webhd.ru/ddh2/premium130/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena" tvg-logo="https://i.imgur.com/XBMm9XT.png" group-title="体育",Sky Sports Arena
+https://ddh2.webhd.ru/ddh2/premium36/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png" group-title="体育",Sky Sports F1
+https://ddh2.webhd.ru/ddh2/premium60/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/JbH3J1e.png" group-title="体育",Astro SuperSport 1
+https://ddh2.webhd.ru/ddh2/premium123/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/5YHs2DV.png" group-title="体育",Astro SuperSport 2
+https://ddh2.webhd.ru/ddh2/premium124/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/TE652vN.png" group-title="体育",Astro SuperSport 3
+https://ddh2.webhd.ru/ddh2/premium125/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/irWZ3TG.png" group-title="体育",Astro SuperSport 4
+https://ddh2.webhd.ru/ddh2/premium126/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/ebpvrUx.png" group-title="体育",Astro SuperSport 5
+https://ddh2.webhd.ru/ddh2/premium43/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SS Football Nigeria" tvg-logo="https://i.imgur.com/HNUwofZ.png" group-title="体育",SuperSport Football
+https://ddh2.webhd.ru/ddh2/premium56/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="SS LaLiga Nigeria" tvg-logo="https://i.imgur.com/qW4Ql2K.png" group-title="体育",SuperSport Laliga
+https://ddh2.webhd.ru/ddh2/premium415/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SS Premier League Nigeria" tvg-logo="https://i.imgur.com/xZFMYj4.png" group-title="体育",SuperSport Premier League
+https://ddh2.webhd.ru/ddh2/premium414/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="SS Variety 1 Nigeria" tvg-logo="https://i.imgur.com/iy5uxqP.png" group-title="体育",SuperSport Variety 1
+https://ddh2.webhd.ru/ddh2/premium416/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="SS Variety 2 Nigeria" tvg-logo="https://i.imgur.com/XOpIxRO.png" group-title="体育",SuperSport Variety 2
+https://ddh2.webhd.ru/ddh2/premium417/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="SS Variety 3 Nigeria" tvg-logo="https://i.imgur.com/kcKzGGv.png" group-title="体育",SuperSport Variety 3
+https://ddh2.webhd.ru/ddh2/premium418/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="SS Variety 4 Nigeria" tvg-logo="https://i.imgur.com/hZ62m4v.png" group-title="体育",SuperSport Variety 4
+https://ddh2.webhd.ru/ddh2/premium419/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="体育",Fox Sports 1 USA
+https://ddh2.webhd.ru/ddh2/premium39/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="体育",Tennis Channel
+https://ddh2.webhd.ru/ddh2/premium40/playlist.m3u8
